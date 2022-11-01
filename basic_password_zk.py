@@ -1,5 +1,5 @@
 import random
-import math
+
 
 r = random.randrange(0, 500)
 
