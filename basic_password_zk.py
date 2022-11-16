@@ -1,3 +1,5 @@
+# By Hunter Richardson
+
 import random
 import math
 
